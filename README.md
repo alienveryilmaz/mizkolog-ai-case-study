@@ -142,12 +142,4 @@ Mizkolog demonstrates:
 
 ---
 
-## 📩 Contact
-
-- **GitHub:** https://github.com/alienveryilmaz  
-- **LinkedIn:** https://www.linkedin.com/in/alienveryilmaz  
-- **Live Product:** https://mizkolog.com  
-
----
-
 ⭐ *Mizkolog is not just an AI chatbot — it is a temperament-aware guidance system.*
